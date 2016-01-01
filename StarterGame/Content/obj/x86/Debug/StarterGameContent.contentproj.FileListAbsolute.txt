@@ -1,0 +1,4 @@
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\Content\obj\x86\Debug\StarterGameContent.contentprojResolveAssemblyReference.cache
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\Content\obj\x86\Debug\StarterGameContent.contentprojResolveAssemblyReference.cache
+D:\Dropbox\XNA\How to get girls 2\StarterGame\Content\obj\x86\Debug\StarterGameContent.contentprojResolveAssemblyReference.cache
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\Content\obj\x86\Debug\StarterGameContent.contentprojResolveAssemblyReference.cache

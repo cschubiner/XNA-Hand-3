@@ -1,0 +1,214 @@
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\StarterGame.Resources.resources
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\Xbox 360 Copy of StarterGame.csproj.GenerateResource.Cache
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\BackgroundForAll.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\blank.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\FullVersion-StartScreen.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\gradient.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\TrialVersion-StartScreen.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\explosion.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\smoke.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\boxartheader.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\boxart background.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_able.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_mute.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_ready.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_talking.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Fire.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Smoke.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Star9.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\loading circle.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (1).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (2).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (3).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (4).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Box Art\BoxArt (1).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Box Art\BoxArt (2).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Box Art\BoxArt (3).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (1).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (2).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (3).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\GameFont (2).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\GameFont (3).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\timer2sec.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\More Fonts\gamefont.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont2.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont45.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\menufont.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\SWOOSH.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\click.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\santa.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-1.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-3.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-4.xnb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.wmv
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\StarterGame.exe
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\StarterGame.pdb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\StarterGame.exe
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\StarterGame.pdb
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).wma
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).wma
+D:\Dropbox\Alex B and Clay Shared Folder\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\Xbox 360 Copy of StarterGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\BackgroundForAll.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\blank.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\FullVersion-StartScreen.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\gradient.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\TrialVersion-StartScreen.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\explosion.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\smoke.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\boxartheader.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\boxart background.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_able.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_mute.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_ready.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_talking.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Fire.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Smoke.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Star9.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\loading circle.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (1).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (2).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (3).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (4).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Box Art\BoxArt (1).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Box Art\BoxArt (2).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (1).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (2).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\santa.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-1.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-3.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-4.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\GameFont (3).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\timer2sec.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\More Fonts\gamefont.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont2.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont45.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\menufont.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\SWOOSH.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\click.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).xnb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.wmv
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).wma
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).wma
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\StarterGame.exe
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\StarterGame.pdb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\Xbox 360 Copy of StarterGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\StarterGame.Resources.resources
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\Xbox 360 Copy of StarterGame.csproj.GenerateResource.Cache
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\StarterGame.exe
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\obj\Xbox 360\Debug\StarterGame.pdb
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\bigfont.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\obj\Xbox 360\Debug\Xbox 360 Copy of StarterGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\XNA\How to get girls 2\StarterGame\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\XNA\How to get girls 2\StarterGame\obj\Xbox 360\Debug\StarterGame.Resources.resources
+D:\Dropbox\XNA\How to get girls 2\StarterGame\obj\Xbox 360\Debug\Xbox 360 Copy of StarterGame.csproj.GenerateResource.Cache
+D:\Dropbox\XNA\How to get girls 2\StarterGame\obj\Xbox 360\Debug\StarterGame.exe
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\BackgroundForAll.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\blank.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\FullVersion-StartScreen.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\gradient.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\TrialVersion-StartScreen.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\explosion.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\smoke.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\boxartheader.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\boxart background.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_able.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_mute.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_ready.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_talking.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Fire.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Smoke.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Star9.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\loading circle.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (1).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (2).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (3).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (4).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (1).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (2).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Assets\santa.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-1.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-3.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-4.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Box Art\boxart (1).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Box Art\boxart (2).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\bigfont.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\GameFont (3).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\timer2sec.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\More Fonts\gamefont.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont2.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont45.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\menufont.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\SWOOSH.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\click.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).xnb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.wmv
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).wma
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).wma
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\StarterGame.exe
+D:\Dropbox\XNA\How to get girls 2\StarterGame\bin\Xbox 360\Debug\StarterGame.pdb
+D:\Dropbox\XNA\How to get girls 2\StarterGame\obj\Xbox 360\Debug\StarterGame.pdb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\BackgroundForAll.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\blank.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\FullVersion-StartScreen.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\gradient.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\TrialVersion-StartScreen.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\explosion.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\smoke.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\boxartheader.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\boxart background.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_able.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_mute.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_ready.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_talking.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Fire.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Smoke.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Star9.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Random\loading circle.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (1).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (2).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (3).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (4).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (1).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (2).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Assets\santa.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-1.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-3.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-4.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Box Art\boxart (1).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Box Art\boxart (2).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\bigfont.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\GameFont (3).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\timer2sec.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\More Fonts\gamefont.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont2.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont45.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Fonts\menufont.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\SWOOSH.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\click.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).xnb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.wmv
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).wma
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).wma
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\StarterGame.exe
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\Xbox 360\Debug\StarterGame.pdb
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\obj\Xbox 360\Debug\Xbox 360 Copy of StarterGame.csprojResolveAssemblyReference.cache
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\obj\Xbox 360\Debug\StarterGame.Resources.resources
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\obj\Xbox 360\Debug\Xbox 360 Copy of StarterGame.csproj.GenerateResource.Cache
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\obj\Xbox 360\Debug\StarterGame.exe
+D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\obj\Xbox 360\Debug\StarterGame.pdb

@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Game Customization\BackgroundForAll.png</Source>
+      <Name>Game Customization\BackgroundForAll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Game Customization\BackgroundForAll.xnb</Output>
+      <Time>2012-12-18T15:49:33-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\blank.png</Source>
+      <Name>Random\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\blank.xnb</Output>
+      <Time>2010-06-15T23:36:46-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Game Customization\FullVersion-StartScreen.png</Source>
+      <Name>Game Customization\FullVersion-StartScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Game Customization\FullVersion-StartScreen.xnb</Output>
+      <Time>2012-12-30T01:36:18-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\gradient.png</Source>
+      <Name>Random\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\gradient.xnb</Output>
+      <Time>2010-07-29T01:58:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Game Customization\TrialVersion-StartScreen.png</Source>
+      <Name>Game Customization\TrialVersion-StartScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Game Customization\TrialVersion-StartScreen.xnb</Output>
+      <Time>2012-12-30T01:34:40-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\explosion.png</Source>
+      <Name>Random\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\explosion.xnb</Output>
+      <Time>2010-06-25T23:31:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\smoke.bmp</Source>
+      <Name>Random\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\smoke.xnb</Output>
+      <Time>2010-06-25T23:31:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\boxartheader.png</Source>
+      <Name>Random\boxartheader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\boxartheader.xnb</Output>
+      <Time>2010-07-28T16:05:49-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\boxart background.png</Source>
+      <Name>Random\boxart background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\boxart background.xnb</Output>
+      <Time>2010-07-28T16:16:29-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\chat_able.png</Source>
+      <Name>Random\chat_able</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\chat_able.xnb</Output>
+      <Time>2010-07-29T01:58:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\chat_mute.png</Source>
+      <Name>Random\chat_mute</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\chat_mute.xnb</Output>
+      <Time>2010-07-29T01:58:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\chat_ready.png</Source>
+      <Name>Random\chat_ready</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\chat_ready.xnb</Output>
+      <Time>2010-07-29T01:58:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\chat_talking.png</Source>
+      <Name>Random\chat_talking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\chat_talking.xnb</Output>
+      <Time>2010-07-29T01:58:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleTextures\Fire.png</Source>
+      <Name>ParticleTextures\Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\ParticleTextures\Fire.xnb</Output>
+      <Time>2010-06-16T21:27:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleTextures\Smoke.png</Source>
+      <Name>ParticleTextures\Smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\ParticleTextures\Smoke.xnb</Output>
+      <Time>2010-06-16T21:27:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleTextures\Star9.png</Source>
+      <Name>ParticleTextures\Star9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\ParticleTextures\Star9.xnb</Output>
+      <Time>2010-06-16T20:36:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Random\loading circle.png</Source>
+      <Name>Random\loading circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Random\loading circle.xnb</Output>
+      <Time>2010-08-11T02:23:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HowTo\HowTo (1).png</Source>
+      <Name>HowTo\HowTo (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\HowTo\HowTo (1).xnb</Output>
+      <Time>2010-07-28T02:23:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HowTo\HowTo (2).png</Source>
+      <Name>HowTo\HowTo (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\HowTo\HowTo (2).xnb</Output>
+      <Time>2010-08-01T18:46:55-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HowTo\HowTo (3).png</Source>
+      <Name>HowTo\HowTo (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\HowTo\HowTo (3).xnb</Output>
+      <Time>2010-07-28T02:23:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HowTo\HowTo (4).png</Source>
+      <Name>HowTo\HowTo (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\HowTo\HowTo (4).xnb</Output>
+      <Time>2010-07-28T22:31:37-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\screenshot (1).png</Source>
+      <Name>Screenshots\screenshot (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Screenshots\screenshot (1).xnb</Output>
+      <Time>2012-12-30T01:36:18-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\screenshot (2).png</Source>
+      <Name>Screenshots\screenshot (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Screenshots\screenshot (2).xnb</Output>
+      <Time>2012-12-30T01:34:40-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\santa.png</Source>
+      <Name>Assets\santa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Assets\santa.xnb</Output>
+      <Time>2012-12-29T22:27:32-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Untitled-1.png</Source>
+      <Name>Assets\Untitled-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Assets\Untitled-1.xnb</Output>
+      <Time>2012-12-29T22:27:32-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Untitled-3.png</Source>
+      <Name>Assets\Untitled-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Assets\Untitled-3.xnb</Output>
+      <Time>2012-12-29T22:27:32-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Untitled-4.png</Source>
+      <Name>Assets\Untitled-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Assets\Untitled-4.xnb</Output>
+      <Time>2012-12-29T22:27:32-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Box Art\boxart (1).png</Source>
+      <Name>Box Art\boxart (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Box Art\boxart (1).xnb</Output>
+      <Time>2012-12-30T06:00:41-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Box Art\boxart (2).png</Source>
+      <Name>Box Art\boxart (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Box Art\boxart (2).xnb</Output>
+      <Time>2012-12-30T06:00:27-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\bigfont.spritefont</Source>
+      <Name>Fonts\bigfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Fonts\bigfont.xnb</Output>
+      <Time>2012-12-30T06:29:40.3806142-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont (3).spritefont</Source>
+      <Name>Fonts\GameFont (3)</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Fonts\GameFont (3).xnb</Output>
+      <Time>2010-06-15T23:36:47.0435311-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont.spritefont</Source>
+      <Name>Fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Fonts\gamefont.xnb</Output>
+      <Time>2010-06-15T23:36:47.0465313-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\timer2sec.spritefont</Source>
+      <Name>Fonts\timer2sec</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Fonts\timer2sec.xnb</Output>
+      <Time>2010-06-15T23:36:47.0495315-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\More Fonts\gamefont.spritefont</Source>
+      <Name>Fonts\More Fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Fonts\More Fonts\gamefont.xnb</Output>
+      <Time>2010-08-01T17:17:49.5480727-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont2.spritefont</Source>
+      <Name>Fonts\gamefont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Fonts\gamefont2.xnb</Output>
+      <Time>2010-08-01T17:17:48.3900065-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont45.spritefont</Source>
+      <Name>Fonts\gamefont45</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Fonts\gamefont45.xnb</Output>
+      <Time>2010-08-01T17:17:48.9900408-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
+      <Time>2010-08-01T17:17:57.1985103-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\SWOOSH.WAV</Source>
+      <Name>Sound Effects\SWOOSH</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Sound Effects\SWOOSH.xnb</Output>
+      <Time>2010-07-28T22:03:56.7888826-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\click.wav</Source>
+      <Name>Sound Effects\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Sound Effects\click.xnb</Output>
+      <Time>2010-08-11T02:17:45.040801-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Game Customization\intromovie.wmv</Source>
+      <Name>Game Customization\intromovie</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Game Customization\intromovie.xnb</Output>
+      <Extra>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Game Customization\intromovie.wmv</Extra>
+      <Time>2010-08-11T02:40:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Game Customization\gamemusic (1).mp3</Source>
+      <Name>Game Customization\gamemusic (1)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Game Customization\gamemusic (1).xnb</Output>
+      <Extra>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Game Customization\gamemusic (1).wma</Extra>
+      <Time>2012-12-29T23:32:47.8412104-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Game Customization\gamemusic (2).mp3</Source>
+      <Name>Game Customization\gamemusic (2)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Game Customization\gamemusic (2).xnb</Output>
+      <Extra>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\Game Customization\gamemusic (2).wma</Extra>
+      <Time>2012-12-29T23:32:47.8432118-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Users2\Clay\Downloads\Sexy snowball\How to get girls 2\StarterGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-12-31T15:47:31.2564881-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

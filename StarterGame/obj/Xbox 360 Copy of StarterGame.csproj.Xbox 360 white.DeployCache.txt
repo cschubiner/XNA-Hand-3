@@ -1,0 +1,101 @@
+1df08e3b2bcb477f9de48cef6be54225
+0
+Xbox 360 white
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\
+130013319340000000
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\GameThumbnail.png
+2010-06-16T06:34:45.4875785Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\StarterGame.exe
+2012-12-30T09:38:14.9934211Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\santa.xnb
+2012-12-30T09:03:29.5956962Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-1.xnb
+2012-12-30T09:03:31.3813534Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-3.xnb
+2012-12-30T09:03:31.4670319Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Assets\Untitled-4.xnb
+2012-12-30T09:03:31.5473667Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Box Art\BoxArt (1).xnb
+2012-12-30T09:03:25.0460674Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Box Art\BoxArt (2).xnb
+2012-12-30T09:03:25.7812497Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Box Art\BoxArt (3).xnb
+2012-12-30T09:03:26.4994280Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\GameFont (2).xnb
+2012-12-30T09:03:31.5873625Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\GameFont (3).xnb
+2012-12-30T09:03:31.6243714Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont.xnb
+2012-12-30T09:03:31.6793853Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont2.xnb
+2012-12-30T09:03:31.8244201Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\gamefont45.xnb
+2012-12-30T09:03:31.9924629Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\menufont.xnb
+2012-12-30T09:03:32.0414739Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\timer2sec.xnb
+2012-12-30T09:03:31.7354064Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Fonts\More Fonts\gamefont.xnb
+2012-12-30T09:03:31.7934127Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\BackgroundForAll.xnb
+2012-12-30T09:03:12.1189117Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\FullVersion-StartScreen.xnb
+2012-12-30T09:38:10.1723301Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).wma
+2012-12-30T09:03:33.9066505Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (1).xnb
+2012-12-30T09:03:33.9286563Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).wma
+2012-12-30T09:03:35.2012845Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\gamemusic (2).xnb
+2012-12-30T09:03:35.2222888Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.wmv
+2010-08-11T09:40:00.8802066Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\intromovie.xnb
+2012-12-30T09:03:32.0864862Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Game Customization\TrialVersion-StartScreen.xnb
+2012-12-30T09:38:11.7004841Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (1).xnb
+2012-12-30T09:03:19.8148279Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (2).xnb
+2012-12-30T09:03:21.3188674Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (3).xnb
+2012-12-30T09:03:22.8455222Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\HowTo\HowTo (4).xnb
+2012-12-30T09:03:24.3448936Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Fire.xnb
+2012-12-30T09:03:17.8583853Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Smoke.xnb
+2012-12-30T09:03:18.0934450Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\ParticleTextures\Star9.xnb
+2012-12-30T09:03:18.1727468Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\blank.xnb
+2012-12-30T09:03:12.1949099Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\boxart background.xnb
+2012-12-30T09:03:17.4148551Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\boxartheader.xnb
+2012-12-30T09:03:16.1336489Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_able.xnb
+2012-12-30T09:03:17.4862933Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_mute.xnb
+2012-12-30T09:03:17.5413079Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_ready.xnb
+2012-12-30T09:03:17.6023221Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\chat_talking.xnb
+2012-12-30T09:03:17.6573360Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\explosion.xnb
+2012-12-30T09:03:15.5714411Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\gradient.xnb
+2012-12-30T09:03:13.6978746Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\loading circle.xnb
+2012-12-30T09:03:18.2544420Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Random\smoke.xnb
+2012-12-30T09:03:15.9526034Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (1).xnb
+2012-12-30T09:38:13.2579074Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Screenshots\screenshot (2).xnb
+2012-12-30T09:38:14.8128409Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\click.xnb
+2012-12-30T09:03:32.0674803Z
+D:\Dropbox\XNA\4.0 Starting System 4-25-11\StarterGame\bin\Xbox 360\Debug\Content\Sound Effects\SWOOSH.xnb
+2012-12-30T09:03:32.0634805Z
